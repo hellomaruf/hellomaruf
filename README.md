@@ -1,3 +1,6 @@
+<h1 align="center">Hello i'm Maruf</h1>
+<h3 align="center"> A passionate  font-end developer from Bangladesh</h3>
+
 # 💫 About Me:
 I'm currently working on Task Management Project.<br>I'm currently learning ReactJs and developing my design skill.<br>
 
