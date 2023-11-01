@@ -1,21 +1,17 @@
-<h1 align="center">Hello i'm Maruf</h1>
-<h3 align="center"> A passionate  font-end developer from Bangladesh</h3>
+<h1 align="center">Hey There👋, I'm It's Maruf Ahmed</h1>
+<h3 align="center">Trying to Develop Myself👨‍💻</h3>
 
-# 💫 About Me:
-I'm currently working on Task Management Project.<br>I'm currently learning ReactJs and developing my design skill.<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hellomaruf&label=Profile%20views&color=0e75b6&style=flat" alt="hellomaruf" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellomaruf" alt="hellomaruf" /></a> </p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Maruf_Ahmed#1479) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Maruf_Ahmed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maruf_ahamed_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maruf_Ahmed) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/maruf ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maruf ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hellomaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hellomaruf" height="30" width="40" /></a>
+<a href="https://fb.com/maruf ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maruf ahmed" height="30" width="40" /></a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hellomaruf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hellomaruf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomaruf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellomaruf&show_icons=true&locale=en&layout=compact" alt="hellomaruf" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=hellomaruf&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellomaruf&show_icons=true&locale=en" alt="hellomaruf" /></p>
