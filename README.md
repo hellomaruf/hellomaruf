@@ -22,7 +22,7 @@
 
 <br />
 
-## :computer: Technologies that I know
+## :computer: Technologies that I am Skilled in
 
 <br>
 <p align="center">
@@ -51,12 +51,14 @@
 
 
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
+### 🔭 I’m working - In Ekotalab. 
+### 🌱 I’m exploring - React js and ux Development. 
+### 👯 I’m looking - To collaborate on open source projects.  
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
 
 <br />
 
+`
+I'm a Web Developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! Worked with software engineering for more than three years.I'm from Bangladesh, Barishal.I passed Diploma in Computer Science in 2023. I am still working to increase my experience.So currently I am doing programming hero course. Hopefully I can take something good from here.
+`
