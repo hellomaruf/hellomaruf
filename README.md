@@ -1,6 +1,11 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+
 <img src="images/git-covver.png" />
 </a>
+
+<h1 align="center">Hello Peaple<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> Im <br> Maruf Ahmed</h1>
+
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Front-End Web Developer;UX Designer/Developer;" alt="Typing SVG" /></h2>
+
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -55,9 +60,3 @@
 
 <br />
 
-## :book: My recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
-- [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
-- [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
-<!-- BLOG-POST-LIST:END -->
