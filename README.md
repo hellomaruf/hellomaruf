@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="images/linkedin-git.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="images/linkedin3.png">](https://www.linkedin.com/in/hellomaruf/)[<img height="75" src="images/facebook3.png">](https://www.facebook.com/profile.php?id=61550557650416)[<img height="75" src="images/twitter3.png"> </p>]()
 
 <br />
 
