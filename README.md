@@ -62,3 +62,4 @@
 `
 I'm a Web Developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! Worked with software engineering for more than three years.I'm from Bangladesh, Barishal.I passed Diploma in Computer Science in 2023. I am still working to increase my experience.So currently I am doing programming hero course. Hopefully I can take something good from here.
 `
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hellomaruf&label=Profile%20views&color=0e75b6&style=flat" alt="hellomaruf" /> </p>
