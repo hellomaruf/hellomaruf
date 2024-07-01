@@ -51,10 +51,9 @@
 
 
 
-### 🔭 I’m working - In Ekotalab. 
-### 🌱 I’m exploring - React js and ux Development. 
-### 👯 I’m looking - To collaborate on open source projects.  
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🚀 Proud to be part of the Ekotalab team!
+### 📊 Excited to be exploring the world of React.js and UX Development!
+### 🛸 Fun fact: I’m an origami enthusiast and can converse in five different languages!
 
 
 <br />
