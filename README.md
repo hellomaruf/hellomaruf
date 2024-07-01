@@ -52,7 +52,7 @@
 
 
 ### 🚀 Proud to be part of the Ekotalab team!
-### 📊 Excited to be exploring the world of React.js and UX Development!
+### 📊 Excited to be exploring the world of Next.js and TypeScript!
 ### 🛸 Fun fact: I’m an origami enthusiast and can converse in five different languages!
 
 
