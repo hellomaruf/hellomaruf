@@ -1,5 +1,5 @@
 
-<img src="images/git-covver.png" />
+<img src="images/git-banner.png" />
 </a>
 
 <h1 align="center">Hello People<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> Im <br> Maruf Ahmed</h1>
