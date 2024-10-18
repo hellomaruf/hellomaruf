@@ -2,7 +2,7 @@
 <img src="images/git-banner.png" />
 </a>
 
-<h1 align="center">Hello People<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> Im <br> Maruf Ahmed</h1>
+<h1 align="center">Hello People's<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> Im <br> Maruf Ahmed</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Front-End Web Developer;UX Designer/Developer;" alt="Typing SVG" /></h2>
 
