@@ -7,7 +7,7 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Front-End Web Developer;UX Designer/Developer;" alt="Typing SVG" /></h2>
 
 
-## 📈 Current Stats
+## 📈 Current Stat
 
 <br />
 <p align="center">
